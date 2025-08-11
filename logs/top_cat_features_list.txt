@@ -1,0 +1,17 @@
+phone_home_valid
+has_other_cards
+foreign_request
+only_one_valid
+housing_status_BA
+CA_BA
+housing_status_BE
+payment_type_AA
+device_os_windows
+device_os_linux
+device_os_other
+cur_address_months_binned_danger_spike
+intended_balcon_peak_1
+bank_branch_peak
+income
+proposed_credit_limit
+BA_windows
